@@ -24,7 +24,7 @@ Ejercicio: DTD3
         <p>Este ejercicio consiste en crear y validar un cuento en formato XML utilizando un DTD externo.</p>
     </main>
 
-    <!-- 🔴 Pie de página -->
+    <!--  Pie de página -->
     <footer class="footer">
         <p>Ejercicio desarrollado por Sergio Morales - ASIR1</p>
     </footer>
