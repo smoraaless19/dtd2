@@ -14,12 +14,12 @@ Ejercicio: DTD3
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <!-- 🟢 Encabezado principal -->
+    <!--  Encabezado principal -->
     <header class="header">
         <h1>Validación de Cuento con DTD</h1>
     </header>
 
-    <!-- 🔵 Sección principal del contenido -->
+    <!--  Sección principal del contenido -->
     <main class="main-content">
         <p>Este ejercicio consiste en crear y validar un cuento en formato XML utilizando un DTD externo.</p>
     </main>
