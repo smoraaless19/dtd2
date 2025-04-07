@@ -1,0 +1,17 @@
+# Ejercicio DTD3
+
+## Información del Alumno
+- **Nombre:** Sergio Morales  
+- **Curso:** ASIR1  
+- **Fecha:** 06/04/2025  
+
+## Descripción
+Este proyecto corresponde al ejercicio **DTD3**, en el cual se debe crear un cuento en formato **XML** y una definición de tipo de documento (**DTD**) que permita validar su estructura. Se acompaña de una interfaz HTML simple y una hoja de estilos CSS para presentar el trabajo.
+
+## Archivos Incluidos
+- `index.html`: Estructura básica con encabezado, contenido y pie.
+- `styles.css`: Estilos aplicados al HTML.
+- `cuento.xml`: Archivo XML del cuento. *(pendiente de creación)*
+- `cuento.dtd`: Definición del DTD para el cuento. *(pendiente de creación)*
+
+## Estructura Recomendada
